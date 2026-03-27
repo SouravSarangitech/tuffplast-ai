@@ -1,0 +1,12 @@
+{
+  "name": "tuffplast-ai",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "mongoose": "^7.0.0",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
